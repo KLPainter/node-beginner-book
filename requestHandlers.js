@@ -6,7 +6,7 @@ function start(response) {
     var body = '<html>' +
         '<head>' + 
         '<meta http-equiv="Content-Type" content="text/html; ' +
-        'charset=UTF-8 />' +
+        'charset=UTF-8" />' +
         '</head>' +
         '<body>' +
         '<form action="/upload" method="post">' +
